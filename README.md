@@ -10,16 +10,16 @@ I’m Waleed, a passionate **Front-End Developer** who thrives on crafting engag
 
 ### 💻 Skills  
 
-<p align="center">
-  <img src="path_to_your_hosted_html_icon.svg" alt="HTML5" width="48" height="48" />
-  <img src="path_to_your_hosted_css_icon.svg" alt="CSS3" width="48" height="48" />
-  <img src="path_to_your_hosted_javascript_icon.svg" alt="JavaScript" width="48" height="48" />
-  <img src="path_to_your_hosted_typescript_icon.svg" alt="TypeScript" width="48" height="48" />
-  <img src="path_to_your_hosted_react_icon.svg" alt="React" width="48" height="48" />
-  <img src="path_to_your_hosted_next_icon.svg" alt="Next.js" width="48" height="48" />
-  <img src="path_to_your_hosted_bootstrap_icon.svg" alt="Bootstrap" width="48" height="48" />
-  <img src="path_to_your_hosted_tailwind_icon.svg" alt="Tailwind CSS" width="48" height="48" />
-  <img src="path_to_your_hosted_git_icon.svg" alt="Git" width="48" height="48" />
+<p align="center" style="font-size: 24px;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" alt="HTML5" width="48" height="48" style="color:#E34F26;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/css3.svg" alt="CSS3" width="48" height="48" style="color:#1572B6;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" alt="JavaScript" width="48" height="48" style="color:#F7DF1E;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/typescript.svg" alt="TypeScript" width="48" height="48" style="color:#3178C6;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/react.svg" alt="React" width="48" height="48" style="color:#61DAFB;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nextdotjs.svg" alt="Next.js" width="48" height="48" style="color:#000000;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/bootstrap.svg" alt="Bootstrap" width="48" height="48" style="color:#7952B3;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tailwindcss.svg" alt="Tailwind CSS" width="48" height="48" style="color:#06B6D4;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/git.svg" alt="Git" width="48" height="48" style="color:#F05032;" />
 </p>
 
 
