@@ -35,7 +35,7 @@ I’m Waleed, a passionate **Front-End Developer** who thrives on crafting engag
 
 ### 🌐 Let's Connect  
 
-- **Portfolio**: [Waleed’s Portfolio](portfolio-2-wlh7.vercel.app)  
+- - **Portfolio**: [My Website](https://portfolio-2-wlh7.vercel.app)  
 - **Email**: [waleedmehmood@gmail.com](mailto:waleedbinmehmood806@gmail.com)  
 
 ---
